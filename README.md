@@ -5,4 +5,4 @@ Bidirectional Long Short-Term Memory Models and Auxiliary Loss" by Barbara etal.
 
 To run main.py, download [data](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-1548) and [polyglot](https://github.com/bplank/bilstm-aux). 
 
-The project is still ongoing, we'll add a requirements file, trained models in the near future.
+The project is still ongoing, we'll add  requirements file and trained models in the near future.
